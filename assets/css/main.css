@@ -1,0 +1,255 @@
+/* Desktop - 1 */
+.number1{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #F7B1B1;
+}
+
+/* Rectangle 1 */
+.number2{
+position: absolute;
+width: 216px;
+height: 168px;
+left: 71px;
+top: 205px;
+
+background: #9C9AFF;
+}
+
+/* Lebanon */
+h1{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 611px;
+top: 700px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Rectangle 2 */
+.number3{
+position: absolute;
+width: 268px;
+height: 235px;
+left: 814px;
+top: 81px;
+
+background: #D957CC;
+}
+
+/* Rectangle 3 */
+.number4{
+position: absolute;
+width: 432px;
+height: 387px;
+left: 22px;
+top: 565px;
+
+background: #6865FF;
+}
+
+/* Rectangle 4 */
+.number5{
+position: absolute;
+width: 548px;
+height: 487px;
+left: 843px;
+top: 430px;
+
+background: #8CDF85;
+}
+
+/* Rectangle 5 */
+.number6{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 645px;
+top: 624px;
+
+background: #DFE9A0;
+}
+
+/* Rectangle 6 */
+.number7{
+position: absolute;
+width: 370px;
+height: 319px;
+left: 386px;
+top: 165px;
+
+background: #7BE4CB;
+}
+
+/* Rectangle 7 */
+.number8{
+position: absolute;
+width: 94px;
+height: 90px;
+left: 1251px;
+top: 152px;
+
+background: #EC6A6A;
+}
+
+/* Jordan */
+h5{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 102px;
+top: 300px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Syria */
+h6{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 843px;
+top: 220px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* United Arab Emirates */
+h4{
+position: absolute;
+width: 229px;
+height: 107px;
+left: 1199px;
+top: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Iraq */
+h3{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 517px;
+top: 450px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Saudi Arabia */
+h2{
+position: absolute;
+width: 299px;
+height: 74px;
+left: 1015px;
+top: 890px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Egypt */
+h7{
+position: absolute;
+width: 203px;
+height: 54px;
+left: 134px;
+top: 950px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+/* Rectangle 8 */
+.number15{
+position: absolute;
+width: 673px;
+height: 100px;
+left: 22px;
+top: 21px;
+
+background: #8CA09D;
+}
+
+/* Compare these country sizes ! */
+.number16{
+position: absolute;
+width: 649px;
+height: 78px;
+left: 36px;
+top: 31px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+
+h8{
+position: absolute;
+width: 400px;
+height: 54px;
+left: 134px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
